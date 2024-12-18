@@ -4,3 +4,6 @@
 **/test-output.xml
 
 .DS_Store
+Makefile
+.devcontainer/
+*.tgz
