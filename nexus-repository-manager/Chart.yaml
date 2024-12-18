@@ -1,7 +1,7 @@
 apiVersion: v2
 name: nexus-repository-manager
 # The nexus-repository-manager chart is deprecated and no longer maintained
-deprecated: true
+deprecated: false
 
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
@@ -10,7 +10,7 @@ version: 75.1.0
 # incremented each time you make changes to the application.
 appVersion: 3.75.1
 
-description: DEPRECATED Sonatype Nexus Repository Manager - Universal Binary repository
+description: Sonatype Nexus Repository Manager - Universal Binary repository
 
 # A chart can be either an 'application' or a 'library' chart.
 #
